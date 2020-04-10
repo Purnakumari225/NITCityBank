@@ -14,4 +14,8 @@ public class GetDate {
   public void  m3() {
 	  System.out.println("............");
   }
+  public void  m4() {
+	  System.out.println("............");
+  }
+  
 }
