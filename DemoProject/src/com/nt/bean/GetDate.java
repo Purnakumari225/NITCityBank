@@ -7,4 +7,8 @@ public class GetDate {
 	  Date date=new Date();
 	  return date;
   }
+  
+  public void m1() {
+	  System.out.println("m1 method");
+  }
 }
