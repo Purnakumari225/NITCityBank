@@ -19,4 +19,7 @@ public class GetDate {
 	  System.out.println("............");
   }
   
+  public void m2() {
+	  
+  }
 }
